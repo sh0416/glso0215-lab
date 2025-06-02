@@ -1,0 +1,5 @@
+4
+2 HELLO
+3 WORLD
+1 CODE
+5 QR
